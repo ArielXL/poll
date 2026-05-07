@@ -1,11 +1,4 @@
-from django_filters import (
-    BooleanFilter,
-    CharFilter,
-    DateFilter,
-    DateTimeFilter,
-    ModelChoiceFilter,
-    ModelMultipleChoiceFilter,
-)
+from django_filters import DateTimeFilter
 from django_filters import rest_framework as filters
 
 from user_permission.models import PermissionType, PermissionAction, UserPermission
