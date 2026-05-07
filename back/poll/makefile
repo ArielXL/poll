@@ -1,6 +1,6 @@
 .PHONY: info
 
-NAME 	   	:= Django
+NAME 	   	:= Encuesta
 VERSION		:= 1.0
 DEVELOPERS	:= Ariel Plasencia
 COPYRIGHT  	:= Grupo AOV © 2026: $(DEVELOPERS)
